@@ -111,6 +111,7 @@ Partial Autocorrelation
 <img width="707" height="387" alt="image" src="https://github.com/user-attachments/assets/007f481f-15c6-465e-80c1-22f926aba152" />
 
 Autocorrelation
+
 <img width="711" height="379" alt="image" src="https://github.com/user-attachments/assets/87b86fbd-371c-4603-9472-6afccdbb5d3a" />
 
 SIMULATED ARMA(2,2) PROCESS:
