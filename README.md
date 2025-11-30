@@ -95,7 +95,7 @@ plot_pacf(ARMA_2)
 plt.show()
 ```
 ### OUTPUT:
-OUTPUT:
+
 <img width="830" height="443" alt="image" src="https://github.com/user-attachments/assets/82ae5aad-a7b6-4904-bbd5-449fc6fb5a13" />
 
 Autocorrelation and Partial Autocorrelation:
@@ -115,9 +115,11 @@ Autocorrelation
 <img width="711" height="379" alt="image" src="https://github.com/user-attachments/assets/87b86fbd-371c-4603-9472-6afccdbb5d3a" />
 
 SIMULATED ARMA(2,2) PROCESS:
+
 <img width="721" height="375" alt="image" src="https://github.com/user-attachments/assets/01e0294b-8d47-4673-a4f0-5ed219f34e58" />
 
 Partial Autocorrelation
+
 <img width="721" height="384" alt="image" src="https://github.com/user-attachments/assets/ab72b875-cad4-4bbd-aff7-797d5bfb6b1f" />
 
 Autocorrelation
